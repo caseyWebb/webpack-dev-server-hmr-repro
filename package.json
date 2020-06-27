@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
